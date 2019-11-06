@@ -1,6 +1,6 @@
 # JavaScript-Tutorials-Simpliv
 
-Simpliv.com is a resource for the JavaScript community. You will find resources and examples for JavaScript beginners as well as support for JavaScript Enroll with 80% discount.
+Our team of global web development experts have done in depth research to come up with this list of Best Javascript Tutorials, Class, Courses, Training & Certification for 2019. It includes both paid and free learning resources available online to help you learn Javascript. Wish you all the best!
 
 
 - [Practical JavaScript Exercises 2019 : Build Real Projects](https://www.simpliv.com/javascript/practical-javascript-exercises-2019-build-real-projects).
@@ -28,5 +28,7 @@ JavaScript is the language of the web. It makes websites interactive, creates an
 
 JavaScript owes much of its versatility and usefulness to its many libraries and frameworks, which are tools that handle a lot of the heavy lifting in web development and coding. For instance, React.js is one library maintained by Facebook that helps build user interfaces. While jQuery can help you create animations and interactive features. This makes it all the more worthwhile to learn.
 
-Our team of global web development experts have done in depth research to come up with this list of Best Javascript Tutorial, Class, Course, Training & Certification for 2019. It includes both paid and free learning resources available online to help you learn Javascript. Wish you all the best! Wish you Happy Learning.
+So those were what we found to be the Best Javascript Tutorial, Class, Course, Training & Certification available online for 2019. Hope you found what you were looking for. There are multiple other course from different domains and subjects listed on our website. Wish you Happy Learning.
+
+
 
